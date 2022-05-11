@@ -16,7 +16,7 @@ let x= 42;
 let params = new URLSearchParams(document.location.search);
 let first = params.get("first");
 let serial = params.get("s")
-let link = "https://s2survey.net/EmoWebstudie/?q=emotrack&s=";
+let link = " 	https://s2survey.net/emowebstudie005701/?q=emotrack&s=";
 console.log(serial);
 
 
